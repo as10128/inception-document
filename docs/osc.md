@@ -1,6 +1,6 @@
-#Inception 对OSC的支持
+# Inception 对OSC的支持
 Inception已经支持Percon ToolKit工具**`pt-online-schema-change`**，这样对表大表的修改操作，就不需要跳过Inception而手动去执行了，给线上操作又带来了非常大的方便性。  
-##可选的OSC参数
+## 可选的OSC参数
 为了更友好的实现对OSC的集成，增加了下面的一些参数：  
 
 --------
